@@ -1,6 +1,6 @@
 # Porostats
 
-I couldn't find a League of Legends stats website that had everything I wanted, so I made a personal website that pulls everything into one place. Clean, readable, and designed around what players actually need.
+I couldn't find a League of Legends stats website that had everything I wanted, so I made a personal website that pulls everything into one place. I desgined it to be clean, readable, and around what players actually need.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7550edc1-83d5-490f-9af8-7c75b3130676" width="80%"/>
