@@ -35,7 +35,7 @@ Currently running locally. In active development.
 - [x] Player and champion info display
 - [x] ML winrate model
 - [x] VOD reviewer with winrate graph overlay
-- [ ] Cloud deployment (in progress)
+- [ ] Cloud deployment and cleaning up UI elements (in progress)
 - [ ] Public release — pending Riot Games production API key (~6 months)
 - [ ] Desktop app (potentially)
 
