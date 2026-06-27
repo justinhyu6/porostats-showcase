@@ -26,9 +26,9 @@ I couldn't find a League of Legends analytics website that had everything I want
 | Layer | Tech |
 |---|---|
 | Frontend | React, Tailwind CSS |
-| Backend | FastAPI, Python |
+| Backend | FastAPI, Python, PostgreSQL |
 | ML | PyTorch |
-| Data | Riot Games API |
+| Data | Riot Games API|
 
 ---
 
