@@ -5,8 +5,11 @@ I couldn't find a League of Legends stats website that had everything I wanted, 
 <br/>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7550edc1-83d5-490f-9af8-7c75b3130676" width="80%"/>
-  <img src="https://github.com/user-attachments/assets/e9dba1a8-a082-4d6a-b725-49acd0124f40" width="80%"/>
+  
+  <img width="681" height="616" alt="Screenshot 2026-06-26 at 10 12 15 PM" src="https://github.com/user-attachments/assets/4226040c-d583-430a-b258-ef91bbb79e1c" />
+<img width="574" height="654" alt="Screenshot 2026-06-26 at 10 12 43 PM" src="https://github.com/user-attachments/assets/4304ba87-4558-4b7d-9015-f4adeaac3d26" />
+<img width="571" height="724" alt="Screenshot 2026-06-26 at 10 13 15 PM" src="https://github.com/user-attachments/assets/e24047ec-07ff-41f6-b0e5-0d80ca3b09ce" />
+
 </p>
 
 ---
