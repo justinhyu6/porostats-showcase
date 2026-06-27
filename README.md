@@ -1,6 +1,6 @@
 # Porostats
 
-I couldn't find a League of Legends stats website that had everything I wanted, so I made a personal website that pulls everything into one place. I desgined it to be clean, readable, and around what players actually need.
+I couldn't find a League of Legends analytics website that had everything I wanted, so I made a personal website that pulls everything into one place. I desgined around what I would want it as a player: clean, readable, and with meaningful statistics.
 
 <br/>
 
@@ -16,7 +16,7 @@ I couldn't find a League of Legends stats website that had everything I wanted, 
 
 ## What makes this different from other stat websites
 
-- **ML winrate model** — derives in-game features from match data and trains a model using PyTorch. Instead of relying on intuition, you can measure in-game events with actual metrics.
+- **ML winrate model** — derives in-game features from match data and trains a winrate model using PyTorch. Currently this model is being used while reviewing games or quantifying item impact.
 - **VOD reviewer** — a replay tool that overlays your winrate graph directly onto your game timeline.
 
 ---
