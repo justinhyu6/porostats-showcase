@@ -42,7 +42,7 @@ Currently running locally. In active development.
 - [x] VOD reviewer with winrate graph overlay
 - [ ] Cloud deployment and cleaning up UI elements (in progress)
 - [ ] Public release — pending Riot Games production API key (~6 months)
-- [ ] Desktop app (potentially)
+- [ ] Desktop app with Electron (potentially)
 
 ---
 
