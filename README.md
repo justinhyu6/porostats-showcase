@@ -12,13 +12,14 @@ I couldn't find a League of Legends analytics website that had everything I want
 
 ---
 
-## Tech stack
+## Tech Stack
 
 | Layer | Tech |
 |---|---|
 | Frontend | React, Tailwind CSS |
 | Backend | FastAPI, Python, PostgreSQL |
 | ML | PyTorch |
-| Data | Riot Games API|
+| Data | Riot Games API |
+| Deployment | Cloudflare Pages, Railway |
 
 ---
