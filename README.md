@@ -1,6 +1,6 @@
 # Porostats
 
-I couldn't find a League of Legends analytics website that had everything I wanted, so I built my own. It's a personal project that brings together all the stats and tools I was looking for. Check it out here: https://porostats.pages.dev/about
+I couldn't find a League of Legends analytics website that had everything I wanted, so I built my own. https://porostats.pages.dev/about
 
 <br/>
 
