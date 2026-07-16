@@ -2,11 +2,12 @@
 
 I couldn't find a League of Legends analytics website that had everything I wanted, so I built my own. https://porostats.pages.dev/about
 
-<br/>
+If you would like to try search up a player but aren't familiar with the game, try searching up Troubling Rain#jmon
 
+<br/>
+<img width="1003" height="853" alt="Screenshot 2026-07-15 at 7 19 54 PM" src="https://github.com/user-attachments/assets/de2a8672-4d0f-4529-b23e-7ae20af9c635" />
 <p align="center">
-  
-<img width="1283" height="726" alt="Screenshot 2026-06-30 at 2 47 09 PM" src="https://github.com/user-attachments/assets/92a5f688-c976-4c9a-ade3-f154ed860c05" />
+
 
 </p>
 
